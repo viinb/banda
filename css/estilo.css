@@ -1,0 +1,13 @@
+body {
+    color: blue;
+}
+
+table, tr, td, th {
+    background-color: darkcyan;
+    border: 1px solid black;
+}
+
+th {
+    background-color: blue;
+    color: aliceblue;
+}
